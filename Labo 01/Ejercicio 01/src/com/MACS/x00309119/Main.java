@@ -7,7 +7,7 @@ public class Main{
         Scanner sca= new Scanner(System.in);
         int x = 0, y = 1;
         System.out.println("Cuantos elementos?");
-        byte n = sca.nextByte();sca.nextLine();
+        int n = sca.nextInt();sca.nextLine();
         System.out.println("Los primeros "+ n +" terminos son: ");
         for(int i = 1;i <= n;i++){
             int suma = 0;
