@@ -1,0 +1,5 @@
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 05\Ejercicio 05\Ejercicio 05\obj\Debug\Ejercicio 05.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 05\Ejercicio 05\Ejercicio 05\bin\Debug\Ejercicio_05.exe
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 05\Ejercicio 05\Ejercicio 05\bin\Debug\Ejercicio_05.pdb
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 05\Ejercicio 05\Ejercicio 05\obj\Debug\Ejercicio_05.exe
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 05\Ejercicio 05\Ejercicio 05\obj\Debug\Ejercicio_05.pdb
