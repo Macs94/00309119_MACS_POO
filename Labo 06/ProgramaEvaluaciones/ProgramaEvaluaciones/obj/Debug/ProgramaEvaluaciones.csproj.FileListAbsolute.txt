@@ -1,0 +1,5 @@
+C:\Users\Mario\Desktop\POO-2020\Labo 06\ProgramaEvaluaciones\ProgramaEvaluaciones\bin\Debug\ProgramaEvaluaciones.exe
+C:\Users\Mario\Desktop\POO-2020\Labo 06\ProgramaEvaluaciones\ProgramaEvaluaciones\bin\Debug\ProgramaEvaluaciones.pdb
+C:\Users\Mario\Desktop\POO-2020\Labo 06\ProgramaEvaluaciones\ProgramaEvaluaciones\obj\Debug\ProgramaEvaluaciones.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\POO-2020\Labo 06\ProgramaEvaluaciones\ProgramaEvaluaciones\obj\Debug\ProgramaEvaluaciones.exe
+C:\Users\Mario\Desktop\POO-2020\Labo 06\ProgramaEvaluaciones\ProgramaEvaluaciones\obj\Debug\ProgramaEvaluaciones.pdb
