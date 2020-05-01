@@ -1,22 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be7f1baa-aafd-44d6-ae09-103dbc5b4f76" name="Default Changelist" comment="" />
+    <list default="true" id="be7f1baa-aafd-44d6-ae09-103dbc5b4f76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProgramaEvaluaciones/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProgramaEvaluaciones/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProgramaEvaluaciones/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProgramaEvaluaciones/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProgramaEvaluaciones/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProgramaEvaluaciones/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProgramaEvaluaciones/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProgramaEvaluaciones/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramaEvaluaciones/bin/Debug/ProgramaEvaluaciones.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramaEvaluaciones/bin/Debug/ProgramaEvaluaciones.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramaEvaluaciones/bin/Debug/ProgramaEvaluaciones.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramaEvaluaciones/bin/Debug/ProgramaEvaluaciones.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramaEvaluaciones/obj/Debug/ProgramaEvaluaciones.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramaEvaluaciones/obj/Debug/ProgramaEvaluaciones.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramaEvaluaciones/obj/Debug/ProgramaEvaluaciones.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramaEvaluaciones/obj/Debug/ProgramaEvaluaciones.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramaEvaluaciones/obj/Debug/ProgramaEvaluaciones.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramaEvaluaciones/obj/Debug/ProgramaEvaluaciones.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ProgramaEvaluaciones/Properties/MaxPercentageException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProgramaEvaluaciones/CalculateGrade.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ProgramaEvaluaciones/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ProgramaEvaluaciones/Exam.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ProgramaEvaluaciones/Homework.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProgramaEvaluaciones/Evaluation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProgramaEvaluaciones/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProgramaEvaluaciones/OutOfRangeException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProgramaEvaluaciones/InvalidGradeException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProgramaEvaluaciones/LabWork.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ProgramaEvaluaciones/OutOfRangeException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProgramaEvaluaciones/Exam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProgramaEvaluaciones/Properties/MaxPercentageException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProgramaEvaluaciones/Homework.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -35,6 +48,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1bC178sByvO2pi3Mbd129aEKdyw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -43,6 +57,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -87,6 +102,7 @@
       <workItem from="1588212872233" duration="4289000" />
       <workItem from="1588262512446" duration="5431000" />
       <workItem from="1588346966361" duration="3096000" />
+      <workItem from="1588350369875" duration="126000" />
     </task>
     <servers />
   </component>
@@ -96,22 +112,22 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1237" height="530" key="GridCell.Tab.0.bottom" timestamp="1588350024259">
+    <state width="1237" height="530" key="GridCell.Tab.0.bottom" timestamp="1588370473841">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="530" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1588350024259" />
-    <state width="1237" height="530" key="GridCell.Tab.0.center" timestamp="1588350024259">
+    <state width="1237" height="530" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1588370473841" />
+    <state width="1237" height="530" key="GridCell.Tab.0.center" timestamp="1588370473840">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="530" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1588350024259" />
-    <state width="1237" height="530" key="GridCell.Tab.0.left" timestamp="1588350024259">
+    <state width="1237" height="530" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1588370473840" />
+    <state width="1237" height="530" key="GridCell.Tab.0.left" timestamp="1588370473840">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="530" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1588350024259" />
-    <state width="1237" height="530" key="GridCell.Tab.0.right" timestamp="1588350024259">
+    <state width="1237" height="530" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1588370473840" />
+    <state width="1237" height="530" key="GridCell.Tab.0.right" timestamp="1588370473841">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="530" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1588350024259" />
+    <state width="1237" height="530" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1588370473841" />
     <state x="445" y="35" key="RiderGenerateDialog" timestamp="1588215805127">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
