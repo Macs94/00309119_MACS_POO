@@ -1,0 +1,9 @@
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 07\Ejercicio_Labo_07\Ejercicio_Labo_07\bin\Debug\Ejercicio_Labo_07.exe.config
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 07\Ejercicio_Labo_07\Ejercicio_Labo_07\bin\Debug\Ejercicio_Labo_07.exe
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 07\Ejercicio_Labo_07\Ejercicio_Labo_07\bin\Debug\Ejercicio_Labo_07.pdb
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 07\Ejercicio_Labo_07\Ejercicio_Labo_07\obj\Debug\Ejercicio_Labo_07.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 07\Ejercicio_Labo_07\Ejercicio_Labo_07\obj\Debug\Ejercicio_Labo_07.Properties.Resources.resources
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 07\Ejercicio_Labo_07\Ejercicio_Labo_07\obj\Debug\Ejercicio_Labo_07.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 07\Ejercicio_Labo_07\Ejercicio_Labo_07\obj\Debug\Ejercicio_Labo_07.exe
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 07\Ejercicio_Labo_07\Ejercicio_Labo_07\obj\Debug\Ejercicio_Labo_07.pdb
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 07\Ejercicio_Labo_07\Ejercicio_Labo_07\obj\Debug\Ejercicio_Labo_07.Form1.resources
