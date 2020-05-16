@@ -1,0 +1,11 @@
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 08\UCTL\UCTL\bin\Debug\UCTL.exe.config
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 08\UCTL\UCTL\bin\Debug\UCTL.pdb
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 08\UCTL\UCTL\obj\Debug\UCTL.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 08\UCTL\UCTL\obj\Debug\UCTL.Properties.Resources.resources
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 08\UCTL\UCTL\obj\Debug\UCTL.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 08\UCTL\UCTL\obj\Debug\UCTL.exe
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 08\UCTL\UCTL\obj\Debug\UCTL.pdb
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 08\UCTL\UCTL\obj\Debug\UCTL.Login.resources
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 08\UCTL\UCTL\obj\Debug\UCTL.Register.resources
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 08\UCTL\UCTL\obj\Debug\UCTL.Form1.resources
+C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 08\UCTL\UCTL\obj\Debug\UCTL.csproj.CopyComplete
