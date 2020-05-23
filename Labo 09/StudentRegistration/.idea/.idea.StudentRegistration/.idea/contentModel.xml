@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Mario\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Mario\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_StudentRegistration.2059002036.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Mario\Desktop\POO-2020\00309119_MACS_POO\Labo 09\StudentRegistration" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="StudentRegistration" t="IncludeRecursive">
+        <e p="AddSignature.cs" t="Include" />
+        <e p="AddSignature.Designer.cs" t="Include" />
+        <e p="AddSignature.resx" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConnectionDB.cs" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="Inscription.cs" t="Include" />
+        <e p="Inscription.Designer.cs" t="Include" />
+        <e p="Inscription.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="RegisterStudent.cs" t="Include" />
+        <e p="RegisterStudent.Designer.cs" t="Include" />
+        <e p="RegisterStudent.resx" t="Include" />
+        <e p="StudentRegistration.csproj" t="IncludeRecursive" />
+        <e p="ViewData.cs" t="Include" />
+        <e p="ViewData.Designer.cs" t="Include" />
+        <e p="ViewData.resx" t="Include" />
+      </e>
+      <e p="StudentRegistration.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
